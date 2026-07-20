@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+nvenv/
+.env
+.streamlit/secrets.toml
+.venv/
